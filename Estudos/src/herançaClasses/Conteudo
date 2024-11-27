@@ -1,0 +1,41 @@
+*Herança de Class*
+	A ideia da herança e junta todas as coisa de que se repete nas class 
+	ex todos tem (nome)
+	Entao AS CLASS FILHAS VAO HERDAR DA CALASSE MAE
+
+
+CLASS FILHAS
+-> Cachorro
+ 	String nome;
+	 	void comer()
+	 	void beber()
+	 	void latir()
+	 	void laber()
+ 	
+ -> Gato 
+ 	String nome;
+	 	void comer()
+	 	void beber()
+	 	void miar()
+ 	
+ -> Gragão
+ 	String nome;
+	 	void comer()
+	 	void beber()
+	 	void soltaFogo()
+	 	void voar()
+	 	
+-> Pombo
+	String nome;
+	String cartasEnviadas;
+		void comer;
+		void beber() 
+		void voar()	
+	 	void fazerPruh()
+	 	void enviarCartas()
+	 	
+	 	
+	 	
+ 	
+ 	
+ 	
